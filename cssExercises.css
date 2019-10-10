@@ -1,0 +1,39 @@
+body {
+    background-color: navy;
+    color:orange;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sections {
+    text-align: center;
+    padding: 30px;
+    margin: 30px;
+    border: double orange;
+    text-transform: uppercase
+    
+}
+
+#Title {
+    text-align: center;
+    background-color: orange;
+    color: navy;
+    padding: auto;
+    margin: auto;
+    border: dotted black;
+    font-weight: bold;
+}
+
+p{
+text-align: center;
+}
+
+#photo {
+    background-image: url("https://media.giphy.com/media/Mjawzcu8xPcZi/giphy.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 200px;
+    margin: auto;
+}
+
+h3{
+    font-size: xx-small
+}
